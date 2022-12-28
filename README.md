@@ -73,5 +73,5 @@
 <h2 align="left">🚨 Oops, let me type <tt>git push</tt> 🥹</h2>
 
 <div align="center">
-  <img height="250" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/game%20save.jpg"  />
+  <img height="300" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/game%20save.jpg"  />
 </div>
