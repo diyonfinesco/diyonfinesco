@@ -13,7 +13,7 @@
 <br />
 
 <h1>About Me</h1>
-<h3>I'm Chanaka 👨‍</h3>
+<h3>I'm Chanaka 👨‍💻 </h3>
 
 * 🌍  I'm based in Milan, Italy
 * 🚀  I'm currently working on [Rainbow style](http://rainbowstyle.co/)
