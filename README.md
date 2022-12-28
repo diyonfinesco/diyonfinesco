@@ -44,9 +44,9 @@
 <h3 align="center">GitHub</h3>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=diyonfinesco&show_icons=true&count_private=true&theme=dark&hide_border=true" height="170" />  
+ <img src="https://github-readme-stats.vercel.app/api?username=diyonfinesco&show_icons=true&count_private=true&theme=dark&hide_border=true" height="120" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyonfinesco&hide_border=true&layout=compact&theme=dark" height="170" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyonfinesco&hide_border=true&layout=compact&theme=dark" height="120" />  
 
 ### LeetCode Stats	
 	
