@@ -66,14 +66,3 @@
 <a href="https://github.com/diyonfinesco" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-
-<br />
-
-<h2 align="left">🚨 Oops, let me type <tt>git push</tt> 🥹</h2>
-
-<div align="center">
-  <img height="300" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/game%20save.jpg"  />
-</div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyonfinesco&show_icons=true&theme=dark)
