@@ -74,3 +74,5 @@
 <div align="center">
   <img height="300" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/game%20save.jpg"  />
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyonfinesco&show_icons=true&theme=dark)
