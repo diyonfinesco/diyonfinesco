@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @diyonfinesco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="left">👋 Hello I'm Chanaka 👨‍💻, Let me save the game 🥹</h1>
 
-<!---
-diyonfinesco/diyonfinesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="center">
+  <img height="500" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/coding%20IGI1.jpg?raw=true"  />
+</div>
+
+###
