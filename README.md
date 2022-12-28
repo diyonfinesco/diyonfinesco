@@ -1,4 +1,4 @@
-<h1 align="left"> 
+<h1 align="center"> 
 	Hey 👋, Thank You for taking the time to view my GitHub Profile ☺️
 </h1>
 
@@ -18,7 +18,7 @@
 * 🌍  I'm based in Milan, Italy
 * 🚀  I'm currently working on [Rainbow style](http://rainbowstyle.co/)
 
-<h2>Skills</h2>
+<h1>Skills</h1>
 
 
 <div align="left">
