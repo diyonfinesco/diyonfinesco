@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/coding%20IGI1.jpg?raw=true"  />
+  <img height="300" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/coding%20IGI1.jpg?raw=true"  />
 </div>
 
 ###
