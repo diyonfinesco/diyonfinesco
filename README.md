@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-	<img height="350" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/coding%20IGI1.jpg?raw=true"  />
+	<img height="450" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/IGI1.gif"  />
 	<br />
 	<p>I am working on how to print "Hello World"</p>
 </div>
