@@ -15,8 +15,8 @@
 <h1>About Me</h1>
 <h3>I'm Chanaka 👨‍💻 </h3>
 
-* 🌍  I'm based in Milan, Italy
-* 🚀  I'm currently working on [Rainbow style](http://rainbowstyle.co/)
+* 🌍  Based in Milan, Italy
+* 🚀  Currently working on [Rainbow style](http://rainbowstyle.co/)
 
 <h1>Skills</h1>
 
