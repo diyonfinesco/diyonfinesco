@@ -7,7 +7,7 @@
 </div>
 
 <h1>About Me</h1>
-<h3>Ciao 👋 I'm Chanaka 👨‍💻 </h3>
+<h3>Ciao 👋  I'm Chanaka 👨‍💻 </h3>
 
 * 🌍  Based in Milan, Italy
 * 🚀  Currently working on [Rainbow style](http://rainbowstyle.co/)
