@@ -7,10 +7,10 @@
 <div align="center">
 	<img height="450" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/IGI1.gif"  />
 	<br />
-	<p>I am working on how to print "Hello World"</p>
-</div>
-
 <br />
+	
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&center=true&multiline=true&width=600&height=65&lines=How+to+print+%22hello+world%22+in+every+language%3F" alt="Typing SVG" /></a>
+</div>
 
 <h1>About Me</h1>
 <h3>I'm Chanaka 👨‍💻 </h3>
