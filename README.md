@@ -1,11 +1,5 @@
-<h1 align="center"> 
-	Hey 👋, Thank You for taking the time to view my GitHub Profile ☺️
-</h1>
-
-<br />
-
 <div align="center">
-	<img height="450" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/IGI1.gif"  />
+	<img height="400" src="https://github.com/diyonfinesco/computer-hacking-IGI-1/blob/main/IGI1.gif"  />
 	<br />
 <br />
 	
