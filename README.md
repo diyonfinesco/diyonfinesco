@@ -40,12 +40,10 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diyonfinesco&hide_border=true&layout=compact&theme=dark&custom_title=Programming+Languages&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=8&hide=HTML,CSS" height="165" />  
 
-<!---
 ### LeetCode Stats	
 	
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=diyonfinesco&theme=dark)
-*/
--->	
+
 </div>
 
 <h1> Connect with me</h1>
