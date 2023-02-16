@@ -36,7 +36,7 @@
 <h3 align="center">GitHub</h3>
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diyonfinesco&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&custom_title=GitHub+Stats" height="165" />  
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diyonfinesco&custom_title=GitHubStats&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="165" />  
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diyonfinesco&hide_border=true&layout=compact&theme=dark&custom_title=Programming+Languages&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=8&hide=HTML,CSS" height="165" />  
 
