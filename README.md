@@ -11,6 +11,7 @@
 
 * 🌍  Based in Milan, Italy
 * 🚀  Currently working on [Rainbow style](http://rainbowstyle.co/)
+* 🌱  Currently learning Java, Springboot and Angular 
 
 <h1>Skills</h1>
 
