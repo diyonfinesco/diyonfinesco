@@ -9,9 +9,11 @@
 <h1>About Me</h1>
 <h3>Ciao 👋  I'm Chanaka 👨‍💻 </h3>
 
-* 🌍  Based in Milan, Italy
-* 🚀  Currently working on [Rainbow style](http://rainbowstyle.co/)
-* 🌱  Currently learning Java, Springboot and Angular 
+<p>The main purpose of my life is to bring solutions to the problems of people's lives through technology
+in every possible way. I am dedicated to finding problems and bringing innovative solutions to others.
+Through my work, I strive to create valuable contributions that positively impact the world we live in. 🚀</p>
+
+* 📍 Based in Milan, Italy
 
 <h1>Skills</h1>
 
