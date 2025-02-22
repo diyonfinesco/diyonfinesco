@@ -9,9 +9,7 @@
 <h1>About Me</h1>
 <h3>Ciao 👋  I'm Chanaka 👨‍💻 </h3>
 
-<p>The main purpose of my life is to bring solutions to the problems of people's lives through technology
-in every possible way. I am dedicated to finding problems and bringing innovative solutions to others.
-Through my work, I strive to create valuable contributions that positively impact the world we live in. 🚀</p>
+<p>My life's purpose is to solve people's problems through innovative technology, creating impactful solutions that improve lives and positively change the world. 🚀</p>
 
 * 📍 Based in Milan, Italy
 
